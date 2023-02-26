@@ -1,0 +1,6 @@
+redis:
+  configuration:
+    secure: true
+  host: ${redis.host}
+  port: ${redis.port}
+  database: 0
